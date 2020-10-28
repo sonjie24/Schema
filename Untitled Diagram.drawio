@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T11:07:21.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.51" etag="a4YhLGaJGB5WuisT7HPe" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T11:09:22.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.51" etag="PkOc5KTDy8DSZreeGaZ-" version="13.8.5" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2642" dy="2047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -157,13 +157,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x9YALUapwDZKSQAclWl2-223" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Building and Other Permits/Clearance&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=44;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="-540" width="330" height="70" as="geometry" />
+          <mxGeometry x="-212" y="-584" width="330" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="x9YALUapwDZKSQAclWl2-224" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontFamily=Helvetica;fontSize=44;" edge="1" parent="1">
+        <mxCell id="x9YALUapwDZKSQAclWl2-224" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontFamily=Helvetica;fontSize=44;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="x9YALUapwDZKSQAclWl2-179">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="-580" as="sourcePoint" />
+            <mxPoint x="-160" y="-450" as="sourcePoint" />
             <mxPoint x="440" y="-630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="-450" />
+              <mxPoint x="270" y="-600" />
+              <mxPoint x="545" y="-600" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="x9YALUapwDZKSQAclWl2-225" value="&lt;span style=&quot;font-size: 19px&quot;&gt;Fees and Tax Dues OSS&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=44;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="45" y="-400" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="x9YALUapwDZKSQAclWl2-226" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Other Certificates and Clearances&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=44;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-514" width="300" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
